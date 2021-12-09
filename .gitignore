@@ -1,0 +1,6 @@
+manifest.xml
+monkey.jungle
+developer_key
+
+*.prg*
+*.vscode/
